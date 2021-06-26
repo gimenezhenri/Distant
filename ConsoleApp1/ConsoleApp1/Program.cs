@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Distant");
+            Console.WriteLine("Distant2");
             Console.ReadKey();
         }
     }
